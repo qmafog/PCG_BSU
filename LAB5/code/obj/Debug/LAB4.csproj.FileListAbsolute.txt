@@ -1,0 +1,43 @@
+C:\Users\hp\CLionProjects\LAB4\bin\Debug\LAB4.exe.config
+C:\Users\hp\CLionProjects\LAB4\bin\Debug\LAB4.exe
+C:\Users\hp\CLionProjects\LAB4\bin\Debug\LAB4.pdb
+C:\Users\hp\CLionProjects\LAB4\obj\Debug\LAB4.csproj.AssemblyReference.cache
+C:\Users\hp\CLionProjects\LAB4\obj\Debug\LAB4.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\CLionProjects\LAB4\obj\Debug\LAB4.Properties.Resources.resources
+C:\Users\hp\CLionProjects\LAB4\obj\Debug\LAB4.csproj.GenerateResource.cache
+C:\Users\hp\CLionProjects\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+C:\Users\hp\CLionProjects\LAB4\obj\Debug\LAB4.exe
+C:\Users\hp\CLionProjects\LAB4\obj\Debug\LAB4.pdb
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\bin\Debug\LAB4.exe.config
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\bin\Debug\LAB4.exe
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\bin\Debug\LAB4.pdb
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\obj\Debug\LAB4.csproj.AssemblyReference.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\obj\Debug\LAB4.csproj.SuggestedBindingRedirects.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\obj\Debug\LAB4.Properties.Resources.resources
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\obj\Debug\LAB4.csproj.GenerateResource.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\obj\Debug\LAB4.exe
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\obj\Debug\LAB4.pdb
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB4\obj\Debug\LAB4.Form1.resources
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\obj\Debug\LAB4.csproj.AssemblyReference.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\obj\Debug\LAB4.csproj.SuggestedBindingRedirects.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\obj\Debug\LAB4.Form1.resources
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\obj\Debug\LAB4.Properties.Resources.resources
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\obj\Debug\LAB4.csproj.GenerateResource.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\obj\Debug\LAB4.exe
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\obj\Debug\LAB4.pdb
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\bin\Debug\LAB4.exe.config
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\bin\Debug\LAB4.exe
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB5\bin\Debug\LAB4.pdb
+D:\LAB5\bin\Debug\LAB4.exe.config
+D:\LAB5\bin\Debug\LAB4.exe
+D:\LAB5\bin\Debug\LAB4.pdb
+D:\LAB5\obj\Debug\LAB4.csproj.AssemblyReference.cache
+D:\LAB5\obj\Debug\LAB4.csproj.SuggestedBindingRedirects.cache
+D:\LAB5\obj\Debug\LAB4.Form1.resources
+D:\LAB5\obj\Debug\LAB4.Properties.Resources.resources
+D:\LAB5\obj\Debug\LAB4.csproj.GenerateResource.cache
+D:\LAB5\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+D:\LAB5\obj\Debug\LAB4.exe
+D:\LAB5\obj\Debug\LAB4.pdb

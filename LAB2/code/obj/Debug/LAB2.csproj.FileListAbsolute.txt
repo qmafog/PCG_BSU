@@ -1,0 +1,22 @@
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\bin\Debug\LAB2.exe.config
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\bin\Debug\LAB2.exe
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\bin\Debug\LAB2.pdb
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\obj\Debug\LAB2.Form1.resources
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\obj\Debug\LAB2.exe
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C#)\LAB2\obj\Debug\LAB2.pdb
+D:\LAB2\bin\Debug\LAB2.exe.config
+D:\LAB2\bin\Debug\LAB2.exe
+D:\LAB2\bin\Debug\LAB2.pdb
+D:\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+D:\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+D:\LAB2\obj\Debug\LAB2.Form1.resources
+D:\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+D:\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+D:\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+D:\LAB2\obj\Debug\LAB2.exe
+D:\LAB2\obj\Debug\LAB2.pdb
