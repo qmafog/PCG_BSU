@@ -1,0 +1,10 @@
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C++)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C++)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C++)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C++)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C++)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C++)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C++)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C++)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C++)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\WORK\Programming\My Projects\Projects from VS\Projects (C++)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
